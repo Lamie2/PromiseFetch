@@ -1,0 +1,17 @@
+img {
+    height: 250px;
+}
+
+.wish-box {
+    position: relative;
+
+    span {
+        right: -8px;
+        position: absolute;
+        top: -12px;
+    }
+
+    i {
+        font-size: 25px;
+    }
+}
